@@ -1,2 +1,2 @@
-<h1>Locadoora Python</h1>
-<h3>Programa feito no curso de Introdução a Programação</h3>
+<h1>Locadora Python</h1>
+<p>Programa feito no curso de Introdução a Programação</p>
